@@ -1,5 +1,5 @@
 #summary Source
 
-We have migrated to GitHub, please visit [https://github.com/multitheftauto/mtasa-resources our new repository] for the latest source code.
+We have migrated to `GitHub`, please visit [https://github.com/multitheftauto/mtasa-resources our new repository] for the latest source code.
 
 You may still [https://code.google.com/p/mtasa-resources/source/list visit the old source changes].
